@@ -3,7 +3,7 @@ from django.conf.urls import patterns, url, include
 from tastypie import resources
 from tastypie.utils import trailing_slash
 import json
-from lisa.server.web.weblisa.settings import LISA_PATH
+
 
 class Domoticz(object):
     def __init__(self):

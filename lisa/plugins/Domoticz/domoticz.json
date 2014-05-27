@@ -1,6 +1,6 @@
 {
     "lang": ["fr", "en"],
-    "name": "domoticz",
+    "name": "Domoticz",
     "author": "jfcjfc",
     "enabled": 1,
     "pypi-url": "https://pypi.python.org/pypi/lisa-plugin-Domoticz",
